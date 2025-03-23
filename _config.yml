@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 	(=①ω①=)  # the main title
+title: MayonnaiseEGG  # the main title
 
-tagline: Random blog, move along... # it will display as the subtitle
+tagline: Random security blog for me to keep notes of stuffs, move along... # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A random security blog, made by a random security person. More of personal notes website where I write stuffs I've learned about so that I can refer to them later ^^
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/avatar.png"
+avatar: "assets/img/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
